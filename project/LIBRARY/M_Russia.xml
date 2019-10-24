@@ -1,0 +1,40 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="M_Russia" itemID="5da9f7d9-00000577" lastModified="1571420875">
+  <timeline>
+    <DOMTimeline name="M_Russia">
+      <layers>
+        <DOMLayer name="Layer_1" color="#00FFFF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="info_board">
+                  <matrix>
+                    <Matrix a="0.690872192382813" d="0.423583984375"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="163.8" y="110.7"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMDynamicText selected="true" fontRenderingMode="standard" width="177" height="76.75" isSelectable="false" lineType="multiline">
+                  <matrix>
+                    <Matrix tx="24.65" ty="8.6"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>הידעת? אמנם רוסית היא השפה הרשמית במדינה אך קיימות עוד שפות רשמיות במחוזות השונים במדינה.&#xD;למידע נוסף לחץ/י על הדגל</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" autoKern="false" lineHeight="13.35" bitmapSize="240" face="ArialMT"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                  <filters>
+                    <GlowFilter blurX="4" blurY="4" color="#FFFFFF" quality="2"/>
+                  </filters>
+                </DOMDynamicText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

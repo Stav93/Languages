@@ -1,0 +1,43 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="M_Portu" itemID="5daa04e4-00000597" lastModified="1571427336">
+  <timeline>
+    <DOMTimeline name="M_Portu">
+      <layers>
+        <DOMLayer name="Layer_1" color="#00FFFF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="info_board">
+                  <matrix>
+                    <Matrix a="0.690872192382813" d="0.423583984375"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="163.8" y="110.7"/>
+                  </transformationPoint>
+                  <filters>
+                    <GlowFilter blurX="4" blurY="4" color="#FFFFFF"/>
+                  </filters>
+                </DOMSymbolInstance>
+                <DOMDynamicText fontRenderingMode="standard" width="180" height="79.75" isSelectable="false" lineType="multiline">
+                  <matrix>
+                    <Matrix tx="23.15" ty="12.95"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>הידעת? השפה מדוברת בפי כמאתיים מיליון בני אדם ברחבי העולם והשפה הרשמית במספר רב של מדינות שונות. למידע נוסף לחץ/י על הפתקית</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" autoKern="false" lineHeight="13.35" bitmapSize="240" face="ArialMT"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                  <filters>
+                    <GlowFilter blurX="4" blurY="4" color="#FFFFFF"/>
+                  </filters>
+                </DOMDynamicText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

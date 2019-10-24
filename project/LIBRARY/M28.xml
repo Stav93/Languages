@@ -1,0 +1,40 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="M28" itemID="5daa12c4-00000194" lastModified="1571427182">
+  <timeline>
+    <DOMTimeline name="M28">
+      <layers>
+        <DOMLayer name="Layer_1" color="#00FFFF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="info_board">
+                  <matrix>
+                    <Matrix a="0.690872192382813" d="0.423583984375"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="163.8" y="110.7"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMDynamicText fontRenderingMode="standard" left="-19" width="177" height="65.75" isSelectable="false" lineType="multiline">
+                  <matrix>
+                    <Matrix tx="43.25" ty="13.8"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>לשפה הערבית 28 אותיות. למידע נוסף לחץ/י על הפתקית</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" autoKern="false" lineHeight="16.8" size="15" bitmapSize="300" face="ArialMT"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                  <filters>
+                    <GlowFilter blurX="4" blurY="4" color="#FFFFFF"/>
+                  </filters>
+                </DOMDynamicText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

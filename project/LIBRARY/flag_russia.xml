@@ -1,0 +1,78 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="flag_russia" itemID="5da32f78-00000307" lastModified="1570975608">
+  <timeline>
+    <DOMTimeline name="flag_russia">
+      <layers>
+        <DOMLayer name="Layer_1" color="#00FFFF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMGroup selected="true">
+                  <members>
+                    <DOMGroup selected="true">
+                      <members>
+                        <DOMGroup selected="true">
+                          <members>
+                            <DOMShape selected="true">
+                              <fills>
+                                <FillStyle index="1">
+                                  <SolidColor color="#FFFFFF"/>
+                                </FillStyle>
+                              </fills>
+                              <edges>
+                                <Edge fillStyle1="1" edges="!0 0S2|2812 0!2812 0|2812 922!2812 922|0 922!0 922|0 0"/>
+                                <Edge cubics="!0 922(;0,922 0,0 0,0q0 922 0 0);"/>
+                                <Edge cubics="!2812 0(;2812,0 2812,922 2812,922q2812 0 2812 922);"/>
+                                <Edge cubics="!2812 922(;2812,922 0,922 0,922q2812 922 0 922);"/>
+                                <Edge cubics="!0 0(;0,0 2812,0 2812,0q0 0 2812 0);"/>
+                              </edges>
+                            </DOMShape>
+                          </members>
+                        </DOMGroup>
+                        <DOMGroup selected="true">
+                          <members>
+                            <DOMShape selected="true">
+                              <fills>
+                                <FillStyle index="1">
+                                  <SolidColor color="#0039A5"/>
+                                </FillStyle>
+                              </fills>
+                              <edges>
+                                <Edge fillStyle1="1" edges="!0 633S2|2812 633!2812 633|2812 1387!2812 1387|0 1387!0 1387|0 633"/>
+                                <Edge cubics="!0 1387(;0,1387 0,633 0,633q0 1387 0 633);"/>
+                                <Edge cubics="!2812 633(;2812,633 2812,1387 2812,1387q2812 633 2812 1387);"/>
+                                <Edge cubics="!2812 1387(;2812,1387 0,1387 0,1387q2812 1387 0 1387);"/>
+                                <Edge cubics="!0 633(;0,633 2812,633 2812,633q0 633 2812 633);"/>
+                              </edges>
+                            </DOMShape>
+                          </members>
+                        </DOMGroup>
+                        <DOMGroup selected="true">
+                          <members>
+                            <DOMShape selected="true">
+                              <fills>
+                                <FillStyle index="1">
+                                  <SolidColor color="#D42C1D"/>
+                                </FillStyle>
+                              </fills>
+                              <edges>
+                                <Edge fillStyle1="1" edges="!0 1261S2|2812 1261!2812 1261|2812 1885!2812 1885|0 1885!0 1885|0 1261"/>
+                                <Edge cubics="!0 1885(;0,1885 0,1261 0,1261q0 1885 0 1261);"/>
+                                <Edge cubics="!2812 1261(;2812,1261 2812,1885 2812,1885q2812 1261 2812 1885);"/>
+                                <Edge cubics="!2812 1885(;2812,1885 0,1885 0,1885q2812 1885 0 1885);"/>
+                                <Edge cubics="!0 1261(;0,1261 2812,1261 2812,1261q0 1261 2812 1261);"/>
+                              </edges>
+                            </DOMShape>
+                          </members>
+                        </DOMGroup>
+                      </members>
+                    </DOMGroup>
+                  </members>
+                </DOMGroup>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

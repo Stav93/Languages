@@ -1,0 +1,248 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="44" itemID="5da7860d-000004f9" lastModified="1571259917">
+  <timeline>
+    <DOMTimeline name="44">
+      <layers>
+        <DOMLayer name="Layer_1" color="#00FFFF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMGroup selected="true">
+                  <matrix>
+                    <Matrix tx="-403.3" ty="-102.95"/>
+                  </matrix>
+                  <members>
+                    <DOMShape selected="true">
+                      <matrix>
+                        <Matrix tx="-403.3" ty="-102.95"/>
+                      </matrix>
+                      <fills>
+                        <FillStyle index="1">
+                          <SolidColor color="#9EE2F8"/>
+                        </FillStyle>
+                      </fills>
+                      <edges>
+                        <Edge fillStyle1="1" edges="!8086 2174S2[8552 2213 8984 2212!8984 2212[8970 2266 8961 2729!8961 2729[8958 2864 8956 3034!8956 3034[8955 3057 8955 3080!8955 3080/8472 3070!8472 3070[8448 3060 8425 3054!8425 3054[8364 3036 8315 3039!8315 3039[8291 3040 8257 3034!8257
+ 3034[8196 3023 8102 2986!8102 2986[8086 2885 8082 2729!8082 2729[8081 2700 8081 2670!8081 2670[8081 2648 8081 2625!8081 2625/8083 2477!8083 2477/8086 2174"/>
+                        <Edge cubics="!8081 2625(;8081,2625 8083,2477 8083,2477q8081 2625 8083 2477);"/>
+                        <Edge cubics="!8083 2477(;8083,2477 8086,2174 8086,2174q8083 2477 8086 2174);"/>
+                        <Edge cubics="!8984 2212(;8975,2249 8966,2422 8961,2729q8984 2212Q8970 2266q8961 2729);"/>
+                        <Edge cubics="!8961 2729(;8959,2822 8957,2922 8956,3034q8961 2729 8956 3034);"/>
+                        <Edge cubics="!8956 3034(;8955,3051 8955,3065 8955,3080q8956 3034 8955 3080);"/>
+                        <Edge cubics="!8102 2986(;8092,2920 8085,2837 8082,2729q8102 2986Q8086 2885q8082 2729);"/>
+                        <Edge cubics="!8082 2729(;8082,2715 8081,2693 8081,2670q8082 2729 8081 2670);"/>
+                        <Edge cubics="!8081 2670(;8081,2657 8081,2641 8081,2625q8081 2670 8081 2625);"/>
+                        <Edge cubics="!8086 2174(;8397,2200 8696,2213 8984,2212q8086 2174Q8552 2213q8984 2212);"/>
+                        <Edge cubics="!8472 3070(;8456,3063 8440,3058 8425,3054q8472 3070Q8448 3060q8425 3054);"/>
+                        <Edge cubics="!8425 3054(;8384,3042 8347,3037 8315,3039q8425 3054Q8364 3036q8315 3039);"/>
+                        <Edge cubics="!8315 3039(;8301,3040 8284,3038 8257,3034q8315 3039 8257 3034);"/>
+                        <Edge cubics="!8257 3034(;8222,3027 8168,3012 8102,2986q8257 3034Q8196 3023q8102 2986);"/>
+                        <Edge cubics="!8955 3080(;8955,3080 8472,3070 8472,3070q8955 3080 8472 3070);"/>
+                      </edges>
+                    </DOMShape>
+                    <DOMGroup selected="true">
+                      <matrix>
+                        <Matrix tx="-403.3" ty="-102.95"/>
+                      </matrix>
+                      <members>
+                        <DOMShape selected="true">
+                          <matrix>
+                            <Matrix tx="-403.3" ty="-102.95"/>
+                          </matrix>
+                          <fills>
+                            <FillStyle index="1">
+                              <SolidColor color="#B6EDFF"/>
+                            </FillStyle>
+                          </fills>
+                          <edges>
+                            <Edge fillStyle1="1" edges="
+!8102 2988S2[8083 2867 8081 2702!8081 2702[8227 2929 8472 3070!8472 3070[8299 3065 8102 2988"/>
+                            <Edge cubics="!8102 2988(;8089,2908 8082,2812 8081,2702q8102 2988Q8083 2867q8081 2702);"/>
+                            <Edge cubics="!8081 2702(;8178,2853 8308,2976 8472,3070q8081 2702Q8227 2929q8472 3070);"/>
+                            <Edge cubics="!8472 3070(;8357,3067 8233,3040 8102,2988q8472 3070Q8299 3065q8102 2988);"/>
+                          </edges>
+                        </DOMShape>
+                      </members>
+                    </DOMGroup>
+                  </members>
+                </DOMGroup>
+                <DOMGroup selected="true">
+                  <matrix>
+                    <Matrix tx="-403.3" ty="-102.95"/>
+                  </matrix>
+                  <members>
+                    <DOMGroup selected="true">
+                      <matrix>
+                        <Matrix tx="-403.3" ty="-102.95"/>
+                      </matrix>
+                      <members>
+                        <DOMShape selected="true">
+                          <matrix>
+                            <Matrix tx="-403.3" ty="-102.95"/>
+                          </matrix>
+                          <fills>
+                            <FillStyle index="1">
+                              <SolidColor color="#A1A18F"/>
+                            </FillStyle>
+                          </fills>
+                          <edges>
+                            <Edge fillStyle1="1" edges="
+!8460 2287S2[8447 2291 8447 2280!8447 2280/8477 2235!8477 2235/8488 2247!8488 2247/8460 2287"/>
+                            <Edge cubics="!8477 2235(;8477,2235 8488,2247 8488,2247q8477 2235 8488 2247);"/>
+                            <Edge cubics="!8488 2247(;8488,2247 8460,2287 8460,2287q8488 2247 8460 2287);"/>
+                            <Edge cubics="!8447 2280(;8447,2280 8477,2235 8477,2235q8447 2280 8477 2235);"/>
+                            <Edge cubics="!8460 2287(;8451,2289 8447,2287 8447,2280q8460 2287Q8447 2291q8447 2280);"/>
+                          </edges>
+                        </DOMShape>
+                      </members>
+                    </DOMGroup>
+                    <DOMGroup selected="true">
+                      <matrix>
+                        <Matrix tx="-403.3" ty="-102.95"/>
+                      </matrix>
+                      <members>
+                        <DOMShape selected="true">
+                          <matrix>
+                            <Matrix tx="-403.3" ty="-102.95"/>
+                          </matrix>
+                          <fills>
+                            <FillStyle index="1">
+                              <SolidColor color="#E03528"/>
+                            </FillStyle>
+                          </fills>
+                          <edges>
+                            <Edge fillStyle1="1" edges="
+!8484 2155S2[8534 2146 8553 2184!8553 2184[8572 2218 8560 2242!8560 2242[8549 2265 8531 2268!8531 2268[8514 2269 8485 2256!8485 2256[8458 2241 8447 2218!8447 2218[8438 2193 8442 2186!8442 2186[8451 2161 8484 2155"/>
+                            <Edge cubics="!8553 2184(;8565,2207 8568,2226 8560,2242q8553 2184Q8572 2218q8560 2242);"/>
+                            <Edge cubics="!8447 2218(;8441,2201 8439,2191 8442,2186q8447 2218Q8438 2193q8442 2186);"/>
+                            <Edge cubics="!8531 2268(;8519,2269 8504,2265 8485,2256q8531 2268Q8514 2269q8485 2256);"/>
+                            <Edge cubics="!8484 2155(;8516,2150 8539,2159 8553,2184q8484 2155Q8534 2146q8553 2184);"/>
+                            <Edge cubics="!8560 2242(;8553,2257 8543,2266 8531,2268q8560 2242Q8549 2265q8531 2268);"/>
+                            <Edge cubics="!8485 2256(;8468,2245 8454,2233 8447,2218q8485 2256Q8458 2241q8447 2218);"/>
+                            <Edge cubics="!8442 2186(;8447,2169 8462,2159 8484,2155q8442 2186Q8451 2161q8484 2155);"/>
+                          </edges>
+                        </DOMShape>
+                      </members>
+                    </DOMGroup>
+                    <DOMGroup selected="true">
+                      <matrix>
+                        <Matrix tx="-403.3" ty="-102.95"/>
+                      </matrix>
+                      <members>
+                        <DOMShape selected="true">
+                          <matrix>
+                            <Matrix tx="-403.3" ty="-102.95"/>
+                          </matrix>
+                          <fills>
+                            <FillStyle index="1">
+                              <SolidColor color="#8B0101"/>
+                            </FillStyle>
+                          </fills>
+                          <edges>
+                            <Edge fillStyle1="1" edges="
+!8531 2116S2/8579 2145!8579 2145[8565 2180 8546 2205!8546 2205[8501 2218 8488 2177!8488 2177[8504 2145 8531 2116"/>
+                            <Edge cubics="!8531 2116(;8531,2116 8579,2145 8579,2145q8531 2116 8579 2145);"/>
+                            <Edge cubics="!8546 2205(;8516,2214 8496,2204 8488,2177q8546 2205Q8501 2218q8488 2177);"/>
+                            <Edge cubics="!8579 2145(;8571,2169 8558,2188 8546,2205q8579 2145Q8565 2180q8546 2205);"/>
+                            <Edge cubics="!8488 2177(;8499,2155 8514,2135 8531,2116q8488 2177Q8504 2145q8531 2116);"/>
+                          </edges>
+                        </DOMShape>
+                      </members>
+                    </DOMGroup>
+                    <DOMGroup selected="true">
+                      <matrix>
+                        <Matrix tx="-403.3" ty="-102.95"/>
+                      </matrix>
+                      <members>
+                        <DOMShape selected="true">
+                          <matrix>
+                            <Matrix tx="-403.3" ty="-102.95"/>
+                          </matrix>
+                          <fills>
+                            <FillStyle index="1">
+                              <SolidColor color="#CF3342"/>
+                            </FillStyle>
+                          </fills>
+                          <edges>
+                            <Edge fillStyle1="1" edges="
+!8535 2069S2/8625 2130!8625 2130[8619 2140 8608 2151!8608 2151[8577 2161 8549 2138!8549 2138[8515 2112 8520 2088!8520 2088[8522 2080 8535 2069"/>
+                            <Edge cubics="!8535 2069(;8535,2069 8625,2130 8625,2130q8535 2069 8625 2130);"/>
+                            <Edge cubics="!8520 2088(;8522,2082 8526,2075 8535,2069q8520 2088Q8522 2080q8535 2069);"/>
+                            <Edge cubics="!8625 2130(;8621,2136 8617,2145 8608,2151q8625 2130Q8619 2140q8608 2151);"/>
+                            <Edge cubics="!8608 2151(;8588,2158 8568,2154 8549,2138q8608 2151Q8577 2161q8549 2138);"/>
+                            <Edge cubics="!8549 2138(;8526,2121 8516,2104 8520,2088q8549 2138Q8515 2112q8520 2088);"/>
+                          </edges>
+                        </DOMShape>
+                      </members>
+                    </DOMGroup>
+                    <DOMGroup selected="true">
+                      <matrix>
+                        <Matrix tx="-403.3" ty="-102.95"/>
+                      </matrix>
+                      <members>
+                        <DOMShape selected="true">
+                          <matrix>
+                            <Matrix tx="-403.3" ty="-102.95"/>
+                          </matrix>
+                          <fills>
+                            <FillStyle index="1">
+                              <SolidColor color="#EA174D"/>
+                            </FillStyle>
+                          </fills>
+                          <edges>
+                            <Edge fillStyle1="1" edges="
+!8598 2074S2[8615 2089 8623 2107!8623 2107[8630 2124 8621 2136!8621 2136[8613 2147 8594 2146!8594 2146[8575 2145 8556 2131!8556 2131[8538 2117 8531 2100!8531 2100[8523 2081 8533 2070!8533 2070[8541 2058 8560 2059!8560 2059[8579 2061 8598
+ 2074"/>
+                            <Edge cubics="!8556 2131(;8543,2121 8535,2111 8531,2100q8556 2131Q8538 2117q8531 2100);"/>
+                            <Edge cubics="!8560 2059(;8572,2061 8585,2066 8598,2074q8560 2059Q8579 2061q8598 2074);"/>
+                            <Edge cubics="!8533 2070(;8538,2062 8548,2058 8560,2059q8533 2070Q8541 2058q8560 2059);"/>
+                            <Edge cubics="!8531 2100(;8526,2088 8526,2077 8533,2070q8531 2100Q8523 2081q8533 2070);"/>
+                            <Edge cubics="!8623 2107(;8627,2119 8627,2128 8621,2136q8623 2107Q8630 2124q8621 2136);"/>
+                            <Edge cubics="!8621 2136(;8615,2143 8606,2147 8594,2146q8621 2136Q8613 2147q8594 2146);"/>
+                            <Edge cubics="!8594 2146(;8581,2145 8569,2140 8556,2131q8594 2146Q8575 2145q8556 2131);"/>
+                            <Edge cubics="!8598 2074(;8610,2084 8618,2094 8623,2107q8598 2074Q8615 2089q8623 2107);"/>
+                          </edges>
+                        </DOMShape>
+                      </members>
+                    </DOMGroup>
+                  </members>
+                </DOMGroup>
+                <DOMDynamicText selected="true" fontRenderingMode="standard" left="6.5" width="25.2" height="17" isSelectable="false" lineType="multiline">
+                  <matrix>
+                    <Matrix a="0.9993896484375" b="0.0348968505859375" c="-0.0348968505859375" d="0.9993896484375" tx="3.3" ty="13.6"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="19.2" y="8.55"/>
+                  </transformationPoint>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>44</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" autoKern="false" lineSpacing="-9" lineHeight="16.8" size="15" bitmapSize="300" face="Arial-BoldMT"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMDynamicText>
+                <DOMDynamicText selected="true" fontRenderingMode="standard" left="-5.55" width="37.25" height="16.5" isSelectable="false" lineType="multiline">
+                  <matrix>
+                    <Matrix a="0.9993896484375" b="0.0348968505859375" c="-0.0348968505859375" d="0.9993896484375" tx="8.2" ty="30.75"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="13.15" y="8.3"/>
+                  </transformationPoint>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>תווים</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" autoKern="false" lineSpacing="-9" lineHeight="11.15" size="10" bitmapSize="200" face="ArialMT"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMDynamicText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

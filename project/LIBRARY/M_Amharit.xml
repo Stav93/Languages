@@ -1,0 +1,37 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="M_Amharit" itemID="5daa0d28-000000d5" lastModified="1571425576">
+  <timeline>
+    <DOMTimeline name="M_Amharit">
+      <layers>
+        <DOMLayer name="Layer_1" color="#00FFFF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="info_board" selected="true">
+                  <matrix>
+                    <Matrix a="0.690872192382813" d="0.423583984375"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="163.8" y="110.7"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMDynamicText selected="true" fontRenderingMode="standard" left="-27.85" width="162" height="69.9" isSelectable="false" lineType="multiline">
+                  <matrix>
+                    <Matrix tx="58.2" ty="12.45"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>הידעת? בשפה זו, כל סימן גרפי מייצג הברה וישנם גם קולות שאינם נכתבים.&#xD; למידע נוסף לחץ/י על הפתקית</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" autoKern="false" lineHeight="14.5" size="13" bitmapSize="260" face="ArialMT"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMDynamicText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

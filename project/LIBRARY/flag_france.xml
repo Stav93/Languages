@@ -1,0 +1,74 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="flag_france" itemID="5da3305e-0000030f" lastModified="1570975838">
+  <timeline>
+    <DOMTimeline name="flag_france">
+      <layers>
+        <DOMLayer name="Layer_1" color="#00FFFF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMGroup selected="true">
+                  <members>
+                    <DOMGroup selected="true">
+                      <members>
+                        <DOMShape selected="true">
+                          <fills>
+                            <FillStyle index="1">
+                              <SolidColor color="#FFFFFF"/>
+                            </FillStyle>
+                          </fills>
+                          <edges>
+                            <Edge fillStyle1="1" edges="!733 0S2|1808 0!1808 0|1808 1707!1808 1707|733 1707!733 1707|733 0"/>
+                            <Edge cubics="!733 0(;733,0 1808,0 1808,0q733 0 1808 0);"/>
+                            <Edge cubics="!1808 1707(;1808,1707 733,1707 733,1707q1808 1707 733 1707);"/>
+                            <Edge cubics="!1808 0(;1808,0 1808,1707 1808,1707q1808 0 1808 1707);"/>
+                            <Edge cubics="!733 1707(;733,1707 733,0 733,0q733 1707 733 0);"/>
+                          </edges>
+                        </DOMShape>
+                      </members>
+                    </DOMGroup>
+                    <DOMGroup selected="true">
+                      <members>
+                        <DOMShape selected="true">
+                          <fills>
+                            <FillStyle index="1">
+                              <SolidColor color="#ED2939"/>
+                            </FillStyle>
+                          </fills>
+                          <edges>
+                            <Edge fillStyle1="1" edges="!1672 0S2|2508 0!2508 0|2508 1707!2508 1707|1672 1707!1672 1707|1672 0"/>
+                            <Edge cubics="!1672 0(;1672,0 2508,0 2508,0q1672 0 2508 0);"/>
+                            <Edge cubics="!2508 1707(;2508,1707 1672,1707 1672,1707q2508 1707 1672 1707);"/>
+                            <Edge cubics="!2508 0(;2508,0 2508,1707 2508,1707q2508 0 2508 1707);"/>
+                            <Edge cubics="!1672 1707(;1672,1707 1672,0 1672,0q1672 1707 1672 0);"/>
+                          </edges>
+                        </DOMShape>
+                      </members>
+                    </DOMGroup>
+                    <DOMGroup selected="true">
+                      <members>
+                        <DOMShape selected="true">
+                          <fills>
+                            <FillStyle index="1">
+                              <SolidColor color="#002395"/>
+                            </FillStyle>
+                          </fills>
+                          <edges>
+                            <Edge fillStyle1="1" edges="!0 0S2|836 0!836 0|836 1707!836 1707|0 1707!0 1707|0 0"/>
+                            <Edge cubics="!0 0(;0,0 836,0 836,0q0 0 836 0);"/>
+                            <Edge cubics="!836 1707(;836,1707 0,1707 0,1707q836 1707 0 1707);"/>
+                            <Edge cubics="!836 0(;836,0 836,1707 836,1707q836 0 836 1707);"/>
+                            <Edge cubics="!0 1707(;0,1707 0,0 0,0q0 1707 0 0);"/>
+                          </edges>
+                        </DOMShape>
+                      </members>
+                    </DOMGroup>
+                  </members>
+                </DOMGroup>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

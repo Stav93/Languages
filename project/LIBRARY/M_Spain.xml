@@ -1,0 +1,40 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="M_Spain" itemID="5da9f5db-00000501" lastModified="1571427312">
+  <timeline>
+    <DOMTimeline name="M_Spain">
+      <layers>
+        <DOMLayer name="Layer_1" color="#00FFFF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="info_board">
+                  <matrix>
+                    <Matrix a="0.690872192382813" d="0.423583984375"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="163.8" y="110.7"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMDynamicText selected="true" fontRenderingMode="standard" width="170.95" height="80.75" isSelectable="false" lineType="multiline">
+                  <matrix>
+                    <Matrix tx="25.3" ty="15.75"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>הידעת? החוקה הספרדית מכירה באפשרות של שפות אזוריות כרשמיות, במקביל לספרדית למידע נוסף לחץ/י על הדגל</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" autoKern="false" lineHeight="13.35" bitmapSize="240" face="ArialMT"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                  <filters>
+                    <GlowFilter blurX="4" blurY="4" color="#FFFFFF" quality="2"/>
+                  </filters>
+                </DOMDynamicText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

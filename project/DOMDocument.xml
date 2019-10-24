@@ -1,0 +1,1222 @@
+<DOMDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" currentTimeline="1" xflVersion="2.96" creatorInfo="Adobe Animate CC" platform="Windows" versionInfo="Saved by Animate Windows 18.0 build 126" majorVersion="18" buildNumber="126" nextSceneIdentifier="2" playOptionsPlayLoop="false" playOptionsPlayPages="false" playOptionsPlayFrameActions="false" filetypeGUID="3CE50BB6-55CF-47A6-B591-01286DDDC64C" fileGUID="CF34034DD7DBE74480B5305D46D04B99">
+     <symbols>
+          <Include href="22.xml" loadImmediate="false" itemID="5da78607-000004f5" lastModified="1571259911"/>
+          <Include href="23.xml" loadImmediate="false" itemID="5da78629-00000509" lastModified="1571259945"/>
+          <Include href="26.xml" loadImmediate="false" itemID="5da7861f-00000501" lastModified="1571259935"/>
+          <Include href="27.xml" loadImmediate="false" itemID="5da78623-00000505" lastModified="1571259939"/>
+          <Include href="28.xml" loadImmediate="false" itemID="5da78619-000004fd" lastModified="1571259929"/>
+          <Include href="32.xml" loadImmediate="false" itemID="5da78630-0000050d" lastModified="1571259952"/>
+          <Include href="33.xml" loadImmediate="false" itemID="5da7863c-00000511" lastModified="1571259964"/>
+          <Include href="44.xml" loadImmediate="false" itemID="5da7860d-000004f9" lastModified="1571259917"/>
+          <Include href="amharit.xml" loadImmediate="false" itemID="5da77cb1-000004ab" lastModified="1571257521"/>
+          <Include href="arabic.xml" loadImmediate="false" itemID="5da77bdb-00000487" lastModified="1571257308"/>
+          <Include href="board.xml" loadImmediate="false" itemID="5da34756-000003a4" lastModified="1571070139"/>
+          <Include href="books.xml" loadImmediate="false" itemID="5da4a0f8-000002cc" lastModified="1571070200"/>
+          <Include href="english.xml" loadImmediate="false" itemID="5da77cba-000004af" lastModified="1571257530"/>
+          <Include href="exit.xml" loadImmediate="false" itemID="5da73a3d-00000399" lastModified="1571240509"/>
+          <Include href="flag_brazil.xml" loadImmediate="false" itemID="5da3325c-0000032d" lastModified="1570976348"/>
+          <Include href="flag_ethiopia.xml" loadImmediate="false" itemID="5da4d651-0000024f" lastModified="1571083857"/>
+          <Include href="flag_france.xml" loadImmediate="false" itemID="5da3305e-0000030f" lastModified="1570975838"/>
+          <Include href="flag_germmany.xml" loadImmediate="false" itemID="5da331c9-00000321" lastModified="1570976201"/>
+          <Include href="flag_india.xml" loadImmediate="false" itemID="5da4d229-00000229" lastModified="1571082793"/>
+          <Include href="flag_israel.xml" loadImmediate="false" itemID="5da326b8-000002e1" lastModified="1570975286"/>
+          <Include href="flag_italy.xml" loadImmediate="false" itemID="5da32267-000002d4" lastModified="1570975279"/>
+          <Include href="flag_poland.xml" loadImmediate="false" itemID="5da33125-00000315" lastModified="1570976037"/>
+          <Include href="flag_russia.xml" loadImmediate="false" itemID="5da32f78-00000307" lastModified="1570975608"/>
+          <Include href="flag_spain.xml" loadImmediate="false" itemID="5da3333c-00000334" lastModified="1570990414"/>
+          <Include href="flag_thai.xml" loadImmediate="false" itemID="5da32843-000002f1" lastModified="1570975291"/>
+          <Include href="flag_uk.xml" loadImmediate="false" itemID="5da32deb-000002ff" lastModified="1570975211"/>
+          <Include href="flag_usa.xml" loadImmediate="false" itemID="5da4d814-000002df" lastModified="1571084308"/>
+          <Include href="french.xml" loadImmediate="false" itemID="5da77bcb-00000483" lastModified="1571257291"/>
+          <Include href="german.xml" loadImmediate="false" itemID="5da77c60-0000049f" lastModified="1571257440"/>
+          <Include href="glob.xml" loadImmediate="false" itemID="5da73a71-0000039e" lastModified="1571240561"/>
+          <Include href="hebrew.xml" loadImmediate="false" itemID="5da77b7b-0000047f" lastModified="1571257211"/>
+          <Include href="hindu.xml" loadImmediate="false" itemID="5da77c8d-000004a3" lastModified="1571257485"/>
+          <Include href="info_board.xml" loadImmediate="false" itemID="5da4b55a-0000027e" lastModified="1571075418"/>
+          <Include href="italian.xml" loadImmediate="false" itemID="5da77c37-00000497" lastModified="1571257399"/>
+          <Include href="latin.xml" loadImmediate="false" itemID="5da77c96-000004a7" lastModified="1571257494"/>
+          <Include href="M_Amharit.xml" loadImmediate="false" itemID="5daa0d28-000000d5" lastModified="1571425576"/>
+          <Include href="M_Arabic.xml" loadImmediate="false" itemID="5daa14a0-00000198" lastModified="1571427488"/>
+          <Include href="M_Brazil.xml" loadImmediate="false" itemID="5da9f8cc-00000583" lastModified="1571420782"/>
+          <Include href="M_Egypt.xml" loadImmediate="false" itemID="5da9f915-00000588" lastModified="1571420792"/>
+          <Include href="M_English.xml" loadImmediate="false" itemID="5daa0af5-000000a3" lastModified="1571425013"/>
+          <Include href="M_et.xml" loadImmediate="false" itemID="5da9f9f9-00000592" lastModified="1571420803"/>
+          <Include href="M_France.xml" loadImmediate="false" itemID="5da9f74c-0000056e" lastModified="1571420826"/>
+          <Include href="M_French.xml" loadImmediate="false" itemID="5daa0c1e-000000c1" lastModified="1571425310"/>
+          <Include href="M_German.xml" loadImmediate="false" itemID="5daa0b66-000000ad" lastModified="1571425126"/>
+          <Include href="M_Germany.xml" loadImmediate="false" itemID="5da9f69a-00000564" lastModified="1571420838"/>
+          <Include href="M_Hebrew.xml" loadImmediate="false" itemID="5daa0a8b-0000009e" lastModified="1571424907"/>
+          <Include href="M_Hindi.xml" loadImmediate="false" itemID="5daa0cc0-000000d0" lastModified="1571427443"/>
+          <Include href="M_India.xml" loadImmediate="false" itemID="5da9f9ae-0000058d" lastModified="1571420841"/>
+          <Include href="M_Israel.xml" loadImmediate="false" itemID="5da9d846-00000319" lastModified="1571420843"/>
+          <Include href="M_Italian.xml" loadImmediate="false" itemID="5daa0a47-00000099" lastModified="1571424839"/>
+          <Include href="M_Italy.xml" loadImmediate="false" itemID="5da9f830-00000579" lastModified="1571427437"/>
+          <Include href="M_Latin.xml" loadImmediate="false" itemID="5daa0bc0-000000b7" lastModified="1571427366"/>
+          <Include href="M_Poland.xml" loadImmediate="false" itemID="5da9f794-00000573" lastModified="1571420864"/>
+          <Include href="M_Polish.xml" loadImmediate="false" itemID="5daa0c41-000000c6" lastModified="1571427356"/>
+          <Include href="M_Portu.xml" loadImmediate="false" itemID="5daa04e4-00000597" lastModified="1571427336"/>
+          <Include href="M_Russia.xml" loadImmediate="false" itemID="5da9f7d9-00000577" lastModified="1571420875"/>
+          <Include href="M_Russian.xml" loadImmediate="false" itemID="5daa0bee-000000bc" lastModified="1571427324"/>
+          <Include href="M_Spain.xml" loadImmediate="false" itemID="5da9f5db-00000501" lastModified="1571427312"/>
+          <Include href="M_Spanish.xml" loadImmediate="false" itemID="5daa0b2a-000000a8" lastModified="1571427295"/>
+          <Include href="M_Thai.xml" loadImmediate="false" itemID="5daa0521-0000059c" lastModified="1571427284"/>
+          <Include href="M_Thailand.xml" loadImmediate="false" itemID="5da9f87a-0000057e" lastModified="1571420880"/>
+          <Include href="M_UK.xml" loadImmediate="false" itemID="5da9db99-00000435" lastModified="1571412961"/>
+          <Include href="M_USA.xml" loadImmediate="false" itemID="5da9d822-00000315" lastModified="1571427263"/>
+          <Include href="M_Yiddish.xml" loadImmediate="false" itemID="5daa0b9c-000000b2" lastModified="1571427245"/>
+          <Include href="M22.xml" loadImmediate="false" itemID="5daa0eb2-00000100" lastModified="1571425970"/>
+          <Include href="M23.xml" loadImmediate="false" itemID="5daa113f-00000180" lastModified="1571426623"/>
+          <Include href="M26.xml" loadImmediate="false" itemID="5daa0ee2-00000106" lastModified="1571426018"/>
+          <Include href="M27.xml" loadImmediate="false" itemID="5daa0f31-0000010b" lastModified="1571426166"/>
+          <Include href="M28.xml" loadImmediate="false" itemID="5daa12c4-00000194" lastModified="1571427182"/>
+          <Include href="M32.xml" loadImmediate="false" itemID="5daa1244-0000018a" lastModified="1571426884"/>
+          <Include href="M33.xml" loadImmediate="false" itemID="5daa120a-00000185" lastModified="1571426826"/>
+          <Include href="M44.xml" loadImmediate="false" itemID="5daa129c-0000018f" lastModified="1571426972"/>
+          <Include href="polish.xml" loadImmediate="false" itemID="5da77beb-0000048b" lastModified="1571257323"/>
+          <Include href="portu.xml" loadImmediate="false" itemID="5da77c10-0000048f" lastModified="1571257360"/>
+          <Include href="russian.xml" loadImmediate="false" itemID="5da771b2-00000423" lastModified="1571255425"/>
+          <Include href="spanish.xml" loadImmediate="false" itemID="5da77c2e-00000493" lastModified="1571257390"/>
+          <Include href="thai.xml" loadImmediate="false" itemID="5da77c42-0000049b" lastModified="1571257410"/>
+          <Include href="yiddish.xml" loadImmediate="false" itemID="5da77cd6-000004b3" lastModified="1571257558"/>
+     </symbols>
+     <timelines>
+          <DOMTimeline name="Scene 1" currentFrame="7">
+               <layers>
+                    <DOMLayer name="info" color="#FF0000" current="true" isSelected="true" autoNamed="false">
+                         <frames>
+                              <DOMFrame index="0" duration="17" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="M_Israel">
+                                             <matrix>
+                                                  <Matrix tx="204.1" ty="255.35"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="114.3" y="46.8"/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                        <DOMSymbolInstance libraryItemName="M_USA">
+                                             <matrix>
+                                                  <Matrix tx="152.1" ty="395.45"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="120.9" y="49.25"/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                        <DOMSymbolInstance libraryItemName="M_UK">
+                                             <matrix>
+                                                  <Matrix tx="204.1" ty="255.35"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="114.3" y="46.8"/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                        <DOMSymbolInstance libraryItemName="M_Spain">
+                                             <matrix>
+                                                  <Matrix tx="204.1" ty="255.35"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="113" y="49.25"/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                        <DOMSymbolInstance libraryItemName="M_Germany">
+                                             <matrix>
+                                                  <Matrix tx="204.1" ty="255.35"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="113" y="46.8"/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                        <DOMSymbolInstance libraryItemName="M_Russia">
+                                             <matrix>
+                                                  <Matrix tx="204.1" ty="255.35"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="113" y="46.8"/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                        <DOMSymbolInstance libraryItemName="M_France">
+                                             <matrix>
+                                                  <Matrix tx="204.1" ty="252.45"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="113" y="50.3"/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                        <DOMSymbolInstance libraryItemName="M_Poland">
+                                             <matrix>
+                                                  <Matrix tx="204.1" ty="255.35"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="113" y="54.15"/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                        <DOMSymbolInstance libraryItemName="M_Italy">
+                                             <matrix>
+                                                  <Matrix tx="204.1" ty="252.45"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="113" y="46.8"/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                        <DOMSymbolInstance libraryItemName="M_Thailand">
+                                             <matrix>
+                                                  <Matrix tx="204.1" ty="255.35"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="113" y="50.8"/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                        <DOMSymbolInstance libraryItemName="M_Brazil">
+                                             <matrix>
+                                                  <Matrix tx="204.1" ty="252.45"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="113" y="118.6"/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                        <DOMSymbolInstance libraryItemName="M_Egypt">
+                                             <matrix>
+                                                  <Matrix tx="204.1" ty="252.45"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="113" y="46.8"/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                        <DOMSymbolInstance libraryItemName="M_India">
+                                             <matrix>
+                                                  <Matrix tx="204.1" ty="255.35"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="113" y="46.8"/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                        <DOMSymbolInstance libraryItemName="M_et">
+                                             <matrix>
+                                                  <Matrix tx="204.1" ty="255.35"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="113" y="55.6"/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                        <DOMSymbolInstance libraryItemName="M_Portu">
+                                             <matrix>
+                                                  <Matrix tx="204.1" ty="255.35"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="113" y="47.35"/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                        <DOMSymbolInstance libraryItemName="M_Thai">
+                                             <matrix>
+                                                  <Matrix tx="204.1" ty="252.45"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="113" y="49.55"/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                        <DOMSymbolInstance libraryItemName="M_Italian">
+                                             <matrix>
+                                                  <Matrix tx="206.75" ty="252.45"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="113" y="51.6"/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                        <DOMSymbolInstance libraryItemName="M_Hebrew">
+                                             <matrix>
+                                                  <Matrix tx="204.1" ty="252.45"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="113" y="59.1"/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                        <DOMSymbolInstance libraryItemName="M_English">
+                                             <matrix>
+                                                  <Matrix tx="206.75" ty="252.45"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="113" y="50.7"/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                        <DOMSymbolInstance libraryItemName="M_Spanish">
+                                             <matrix>
+                                                  <Matrix tx="204.1" ty="255.35"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="113" y="49.25"/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                        <DOMSymbolInstance libraryItemName="M_German">
+                                             <matrix>
+                                                  <Matrix tx="206.75" ty="255.6"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="113" y="46.8"/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                        <DOMSymbolInstance libraryItemName="M_Yiddish">
+                                             <matrix>
+                                                  <Matrix tx="206.75" ty="252.45"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="113" y="49.6"/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                        <DOMSymbolInstance libraryItemName="M_Latin">
+                                             <matrix>
+                                                  <Matrix tx="206.75" ty="257.95"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="113" y="46.8"/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                        <DOMSymbolInstance libraryItemName="M_Russian">
+                                             <matrix>
+                                                  <Matrix tx="206.75" ty="255.35"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="113" y="46.8"/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                        <DOMSymbolInstance libraryItemName="M_French">
+                                             <matrix>
+                                                  <Matrix tx="206.75" ty="257.95"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="113" y="46.8"/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                        <DOMSymbolInstance libraryItemName="M_Polish">
+                                             <matrix>
+                                                  <Matrix tx="206.75" ty="252.45"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="113" y="54.65"/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                        <DOMSymbolInstance libraryItemName="M_Arabic">
+                                             <matrix>
+                                                  <Matrix tx="204.1" ty="255.35"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="113" y="46.8"/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                        <DOMSymbolInstance libraryItemName="M_Hindi">
+                                             <matrix>
+                                                  <Matrix tx="204.1" ty="255.35"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="113" y="55.6"/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                        <DOMSymbolInstance libraryItemName="M_Amharit">
+                                             <matrix>
+                                                  <Matrix tx="204.1" ty="252.45"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="113" y="46.8"/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                        <DOMSymbolInstance libraryItemName="M22">
+                                             <matrix>
+                                                  <Matrix tx="206.75" ty="255.35"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="113" y="46.8"/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                        <DOMSymbolInstance libraryItemName="M26">
+                                             <matrix>
+                                                  <Matrix tx="206.75" ty="255.35"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="113" y="49.1"/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                        <DOMSymbolInstance libraryItemName="M27">
+                                             <matrix>
+                                                  <Matrix tx="199.7" ty="259.2"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="113" y="48.85"/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                        <DOMSymbolInstance libraryItemName="M23">
+                                             <matrix>
+                                                  <Matrix tx="206.75" ty="257.95"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="113" y="46.8"/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                        <DOMSymbolInstance libraryItemName="M33">
+                                             <matrix>
+                                                  <Matrix tx="201.7" ty="256.3"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="113" y="48.15"/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                        <DOMSymbolInstance libraryItemName="M32">
+                                             <matrix>
+                                                  <Matrix tx="206.75" ty="260.3"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="113" y="46.8"/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                        <DOMSymbolInstance libraryItemName="M44">
+                                             <matrix>
+                                                  <Matrix tx="206.75" ty="257.95"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="113" y="46.8"/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                        <DOMSymbolInstance libraryItemName="M28">
+                                             <matrix>
+                                                  <Matrix tx="204.1" ty="252.45"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="113" y="46.8"/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                        <DOMSymbolInstance libraryItemName="board">
+                                             <matrix>
+                                                  <Matrix tx="81.8" ty="72.95"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="203.3" y="136.4"/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                        <DOMDynamicText fontRenderingMode="standard" left="-13.25" width="350.95" height="174.8" isSelectable="false" lineType="multiline">
+                                             <matrix>
+                                                  <Matrix tx="128.1" ty="134.75"/>
+                                             </matrix>
+                                             <textRuns>
+                                                  <DOMTextRun>
+                                                       <characters>השפה הרשמית בישראל הינה עברית.&#xD;&#xD;ישנן שפות נוספות המדוברת בישראל והן: ערבית, אנגלית, רוסית ואמהרית.&#xD;&#xD;הידעת? עד ל2018 השפות ערבית ואנגלית היו גם כן השפות הרשמיות בישראל.&#xD;</characters>
+                                                       <textAttrs>
+                                                            <DOMTextAttrs alignment="center" aliasText="false" autoKern="false" lineHeight="20.1" size="18" bitmapSize="360" face="ArialMT"/>
+                                                       </textAttrs>
+                                                  </DOMTextRun>
+                                             </textRuns>
+                                        </DOMDynamicText>
+                                        <DOMSymbolInstance libraryItemName="exit">
+                                             <matrix>
+                                                  <Matrix a="0.731536865234375" d="0.731536865234375" tx="109.6" ty="89.2"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="14.9" y="14.9"/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                        <DOMSymbolInstance libraryItemName="flag_israel">
+                                             <matrix>
+                                                  <Matrix a="0.380279541015625" d="0.380279541015625" tx="265.05" ty="299.05"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="61.8" y="45.35"/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                        <DOMDynamicText fontRenderingMode="standard" width="89" height="32.4" isSelectable="false" lineType="multiline">
+                                             <matrix>
+                                                  <Matrix tx="245.8" ty="87.1"/>
+                                             </matrix>
+                                             <textRuns>
+                                                  <DOMTextRun>
+                                                       <characters>עברית</characters>
+                                                       <textAttrs>
+                                                            <DOMTextAttrs alignment="center" aliasText="false" autoKern="false" lineHeight="32.4" size="29" bitmapSize="580" face="ArialMT" fillColor="#0038B8"/>
+                                                       </textAttrs>
+                                                  </DOMTextRun>
+                                             </textRuns>
+                                        </DOMDynamicText>
+                                        <DOMSymbolInstance libraryItemName="22">
+                                             <matrix>
+                                                  <Matrix tx="415.15" ty="82.1"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="22.85" y="25.3"/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+                    <DOMLayer name="letters" color="#009999" locked="true" autoNamed="false">
+                         <frames>
+                              <DOMFrame index="0" duration="17" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="22">
+                                             <matrix>
+                                                  <Matrix tx="470.5" ty="102.95"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="22.85" y="25.3"/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                        <DOMSymbolInstance libraryItemName="44">
+                                             <matrix>
+                                                  <Matrix tx="403.3" ty="102.95"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="22.95" y="25.5"/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                        <DOMSymbolInstance libraryItemName="28">
+                                             <matrix>
+                                                  <Matrix tx="470.5" ty="158.6"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="24.05" y="25.65"/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                        <DOMSymbolInstance libraryItemName="26">
+                                             <matrix>
+                                                  <Matrix tx="401.2" ty="161.65"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="24" y="24.75"/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                        <DOMSymbolInstance libraryItemName="27">
+                                             <matrix>
+                                                  <Matrix tx="465.1" ty="213.75"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="24" y="26.2"/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                        <DOMSymbolInstance libraryItemName="23">
+                                             <matrix>
+                                                  <Matrix tx="403.45" ty="219.9"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="22.85" y="24.05"/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                        <DOMSymbolInstance libraryItemName="32">
+                                             <matrix>
+                                                  <Matrix tx="401.1" ty="269.25"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="24.05" y="23.8"/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                        <DOMSymbolInstance libraryItemName="33">
+                                             <matrix>
+                                                  <Matrix tx="467.95" ty="270.45"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="22.55" y="24.25"/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+                    <DOMLayer name="language" color="#FF4FFF" locked="true" autoNamed="false">
+                         <frames>
+                              <DOMFrame index="0" duration="17" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="russian">
+                                             <matrix>
+                                                  <Matrix tx="255" ty="102"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="34.5" y="27.55"/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                        <DOMSymbolInstance libraryItemName="hebrew">
+                                             <matrix>
+                                                  <Matrix tx="311.05" ty="104.4"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="34.95" y="22.4"/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                        <DOMSymbolInstance libraryItemName="french">
+                                             <matrix>
+                                                  <Matrix tx="193.25" ty="102"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="34.7" y="23.55"/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                        <DOMSymbolInstance libraryItemName="arabic">
+                                             <matrix>
+                                                  <Matrix tx="134.4" ty="102"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="34.85" y="24.65"/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                        <DOMSymbolInstance libraryItemName="polish">
+                                             <matrix>
+                                                  <Matrix tx="71.3" ty="100.15"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="34.7" y="24.95"/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                        <DOMSymbolInstance libraryItemName="portu">
+                                             <matrix>
+                                                  <Matrix tx="302.95" ty="165.5"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="35.55" y="24.1"/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                        <DOMSymbolInstance libraryItemName="spanish">
+                                             <matrix>
+                                                  <Matrix tx="252.05" ty="158.8"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="34.95" y="24.65"/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                        <DOMSymbolInstance libraryItemName="italian">
+                                             <matrix>
+                                                  <Matrix tx="186.1" ty="163.3"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="35.05" y="24.35"/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                        <DOMSymbolInstance libraryItemName="thai">
+                                             <matrix>
+                                                  <Matrix tx="122.7" ty="163.3"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="34.5" y="22.35"/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                        <DOMSymbolInstance libraryItemName="german">
+                                             <matrix>
+                                                  <Matrix tx="63.25" ty="161.1"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="34.4" y="22.15"/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                        <DOMSymbolInstance libraryItemName="hindu">
+                                             <matrix>
+                                                  <Matrix tx="311.1" ty="223.55"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="25.6" y="22.75"/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                        <DOMSymbolInstance libraryItemName="latin">
+                                             <matrix>
+                                                  <Matrix tx="249.9" ty="220.2"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="31.05" y="26"/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                        <DOMSymbolInstance libraryItemName="amharit">
+                                             <matrix>
+                                                  <Matrix tx="194.45" ty="220.2"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="25.35" y="23.3"/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                        <DOMSymbolInstance libraryItemName="english">
+                                             <matrix>
+                                                  <Matrix tx="130.3" ty="222.25"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="34.7" y="23.5"/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                        <DOMSymbolInstance libraryItemName="yiddish">
+                                             <matrix>
+                                                  <Matrix tx="68.1" ty="222.5"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="34.95" y="22.4"/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+                    <DOMLayer name="flags" color="#FF800A" locked="true" autoNamed="false">
+                         <frames>
+                              <DOMFrame index="0" duration="17" keyMode="9728">
+                                   <elements>
+                                        <DOMGroup>
+                                             <members>
+                                                  <DOMShape>
+                                                       <strokes>
+                                                            <StrokeStyle index="1">
+                                                                 <SolidStroke scaleMode="normal" weight="2">
+                                                                      <fill>
+                                                                           <SolidColor color="#C25026"/>
+                                                                      </fill>
+                                                                 </SolidStroke>
+                                                            </StrokeStyle>
+                                                       </strokes>
+                                                       <edges>
+                                                            <Edge strokeStyle="1" edges="!-435 136[1211 1326 3612 -61!3612 -61[5281 1119 7539 -61!7539 -61[9273 1437 11753 93"/>
+                                                            <Edge cubics="!7539 -61(;8695,938 10100,989 11753,93q7539 -61Q9273 1437q11753 93);"/>
+                                                            <Edge cubics="!3612 -61(;4725,726 6034,726 7539,-61q3612 -61Q5281 1119q7539 -61);"/>
+                                                            <Edge cubics="!-435 136(;662,929 2011,864 3612,-61q-435 136Q1211 1326q3612 -61);"/>
+                                                       </edges>
+                                                  </DOMShape>
+                                             </members>
+                                        </DOMGroup>
+                                        <DOMSymbolInstance libraryItemName="flag_italy">
+                                             <matrix>
+                                                  <Matrix a="-0.07464599609375" b="0.318161010742188" c="-0.318161010742188" d="-0.07464599609375" tx="42.05" ty="31.8"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="62.25" y="38.85"/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                        <DOMSymbolInstance libraryItemName="flag_israel">
+                                             <matrix>
+                                                  <Matrix a="-0.006866455078125" b="0.321807861328125" c="-0.27459716796875" d="-0.0060882568359375" tx="283.6" ty="24.75"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="4.55" y="84.9"/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                        <DOMSymbolInstance libraryItemName="flag_thai">
+                                             <matrix>
+                                                  <Matrix a="-0.0884857177734375" b="0.38482666015625" c="-0.366653442382813" d="-0.0843353271484375" tx="249.55" ty="23.25"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="5.05" y="63.95"/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                        <DOMSymbolInstance libraryItemName="flag_uk">
+                                             <matrix>
+                                                  <Matrix a="-0.10809326171875" b="0.212890625" c="-0.268829345703125" d="-0.136489868164063" tx="213.6" ty="13.7"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="4.75" y="79.55"/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                        <DOMSymbolInstance libraryItemName="flag_russia">
+                                             <matrix>
+                                                  <Matrix a="-0.13909912109375" b="0.250930786132813" c="-0.237533569335938" d="-0.13165283203125" tx="419.25" ty="22.5"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="5.25" y="87.85"/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                        <DOMSymbolInstance libraryItemName="flag_france">
+                                             <matrix>
+                                                  <Matrix a="0.07757568359375" b="0.312179565429688" c="-0.29095458984375" d="0.0723114013671875" tx="117.05" ty="24.05"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="63.3" y="42.15"/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                        <DOMSymbolInstance libraryItemName="flag_poland">
+                                             <matrix>
+                                                  <Matrix a="0.0119476318359375" b="0.30914306640625" c="-0.317001342773438" d="0.0122528076171875" tx="80.25" ty="32.1"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="65.9" y="39.55"/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                        <DOMSymbolInstance libraryItemName="flag_germmany">
+                                             <matrix>
+                                                  <Matrix a="0.119598388671875" b="0.2694091796875" c="-0.284133911132813" d="0.126144409179688" tx="154" ty="9.2"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="2.95" y="1.6"/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                        <DOMSymbolInstance libraryItemName="flag_brazil">
+                                             <matrix>
+                                                  <Matrix a="-0.025909423828125" b="0.102523803710938" c="-0.123260498046875" d="-0.0311431884765625" tx="454.25" ty="32.95"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="17.9" y="190.55"/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                        <DOMSymbolInstance libraryItemName="flag_spain">
+                                             <matrix>
+                                                  <Matrix a="0.048248291015625" b="0.206222534179688" c="-0.21051025390625" d="0.04925537109375" tx="324.85" ty="16.75"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="8.45" y="112.85"/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                        <DOMSymbolInstance libraryItemName="flag_india">
+                                             <matrix>
+                                                  <Matrix a="-3.0517578125e-05" b="-0.0835723876953125" c="0.0867919921875" d="-3.0517578125e-05" tx="467.8" ty="74.85"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="454.1" y="38.2"/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                        <DOMSymbolInstance libraryItemName="flag_ethiopia">
+                                             <matrix>
+                                                  <Matrix a="0.05157470703125" b="0.2374267578125" c="-0.258407592773438" d="0.0561370849609375" tx="530.65" ty="27.35"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="8.85" y="6.2"/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                        <DOMSymbolInstance libraryItemName="flag_usa">
+                                             <matrix>
+                                                  <Matrix a="0.111236572265625" b="0.278793334960938" c="-0.28680419921875" d="0.11444091796875" tx="360.6" ty="3.4"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="5.15" y="4.45"/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+                    <DOMLayer name="table" color="#9933CC" locked="true" autoNamed="false">
+                         <frames>
+                              <DOMFrame index="0" duration="17" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="board">
+                                             <matrix>
+                                                  <Matrix a="0.819961547851563" d="0.704559326171875" tx="53.95" ty="89.9"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="203.8" y="147.7"/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                        <DOMGroup>
+                                             <members>
+                                                  <DOMShape>
+                                                       <fills>
+                                                            <FillStyle index="1">
+                                                                 <SolidColor color="#C25026"/>
+                                                            </FillStyle>
+                                                       </fills>
+                                                       <edges>
+                                                            <Edge fillStyle1="1" edges="!993 6582/10154 6582!10154 6582/11490 8567!11490 8567|-430 8567!-430 8567/993 6582"/>
+                                                            <Edge cubics="!993 6582(;993,6582 10154,6582 10154,6582q993 6582 10154 6582);"/>
+                                                            <Edge cubics="!10154 6582(;10154,6582 11490,8567 11490,8567q10154 6582 11490 8567);"/>
+                                                            <Edge cubics="!11490 8567(;11490,8567 -430,8567 -430,8567q11490 8567 -430 8567);"/>
+                                                            <Edge cubics="!-430 8567(;-430,8567 993,6582 993,6582q-430 8567 993 6582);"/>
+                                                       </edges>
+                                                  </DOMShape>
+                                             </members>
+                                        </DOMGroup>
+                                        <DOMSymbolInstance libraryItemName="glob">
+                                             <matrix>
+                                                  <Matrix a="0.425643920898438" d="0.425643920898438" tx="30.65" ty="296.9"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="79.3" y="101.4"/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                        <DOMSymbolInstance libraryItemName="books">
+                                             <matrix>
+                                                  <Matrix tx="460.9" ty="328.3"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="36.25" y="30.6"/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+                    <DOMLayer name="Background" color="#FF0000" locked="true" autoNamed="false">
+                         <frames>
+                              <DOMFrame index="0" duration="17" keyMode="9728">
+                                   <elements>
+                                        <DOMShape isDrawingObject="true">
+                                             <matrix>
+                                                  <Matrix a="0.740493774414063" d="0.519271850585938" tx="-17.8" ty="-8.3"/>
+                                             </matrix>
+                                             <fills>
+                                                  <FillStyle index="1">
+                                                       <SolidColor color="#FAF3E8"/>
+                                                  </FillStyle>
+                                             </fills>
+                                             <edges>
+                                                  <Edge fillStyle1="1" edges="!16000 16000|0 16000!0 16000|0 0!0 0|16000 0!16000 0|16000 16000"/>
+                                                  <Edge cubics="!16000 16000(;16000,16000 0,16000 0,16000p16000 16000q0 16000);"/>
+                                                  <Edge cubics="!0 16000(;0,16000 0,0 0,0q0 16000 0 0);"/>
+                                                  <Edge cubics="!0 0(;0,0 16000,0 16000,0q0 0 16000 0);"/>
+                                                  <Edge cubics="!16000 0(;16000,0 16000,16000 16000,16000q16000 0 16000 16000);"/>
+                                             </edges>
+                                        </DOMShape>
+                                   </elements>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+               </layers>
+          </DOMTimeline>
+     </timelines>
+     <scripts>
+          <GlobalScripts language="Javascript"/>
+     </scripts>
+     <swatchLists>
+          <swatchList>
+               <swatchListInfo name="Default Swatches"/>
+
+               <swatches>
+                    <swatchListInfo name="Default Swatches"/>
+
+                    <SolidSwatchItem/>
+                    <SolidSwatchItem/>
+                    <SolidSwatchItem/>
+                    <SolidSwatchItem/>
+                    <SolidSwatchItem color="#003300" hue="80" saturation="239" brightness="24"/>
+                    <SolidSwatchItem color="#006600" hue="80" saturation="239" brightness="48"/>
+                    <SolidSwatchItem color="#009900" hue="80" saturation="239" brightness="72"/>
+                    <SolidSwatchItem color="#00CC00" hue="80" saturation="239" brightness="96"/>
+                    <SolidSwatchItem color="#00FF00" hue="80" saturation="239" brightness="120"/>
+                    <SolidSwatchItem color="#330000" saturation="239" brightness="24"/>
+                    <SolidSwatchItem color="#333300" hue="40" saturation="239" brightness="24"/>
+                    <SolidSwatchItem color="#336600" hue="60" saturation="239" brightness="48"/>
+                    <SolidSwatchItem color="#339900" hue="67" saturation="239" brightness="72"/>
+                    <SolidSwatchItem color="#33CC00" hue="70" saturation="239" brightness="96"/>
+                    <SolidSwatchItem color="#33FF00" hue="72" saturation="239" brightness="120"/>
+                    <SolidSwatchItem color="#660000" saturation="239" brightness="48"/>
+                    <SolidSwatchItem color="#663300" hue="20" saturation="239" brightness="48"/>
+                    <SolidSwatchItem color="#666600" hue="40" saturation="239" brightness="48"/>
+                    <SolidSwatchItem color="#669900" hue="53" saturation="239" brightness="72"/>
+                    <SolidSwatchItem color="#66CC00" hue="60" saturation="239" brightness="96"/>
+                    <SolidSwatchItem color="#66FF00" hue="64" saturation="239" brightness="120"/>
+                    <SolidSwatchItem/>
+                    <SolidSwatchItem color="#333333" brightness="48"/>
+                    <SolidSwatchItem/>
+                    <SolidSwatchItem color="#000033" hue="160" saturation="239" brightness="24"/>
+                    <SolidSwatchItem color="#003333" hue="120" saturation="239" brightness="24"/>
+                    <SolidSwatchItem color="#006633" hue="100" saturation="239" brightness="48"/>
+                    <SolidSwatchItem color="#009933" hue="93" saturation="239" brightness="72"/>
+                    <SolidSwatchItem color="#00CC33" hue="90" saturation="239" brightness="96"/>
+                    <SolidSwatchItem color="#00FF33" hue="88" saturation="239" brightness="120"/>
+                    <SolidSwatchItem color="#330033" hue="200" saturation="239" brightness="24"/>
+                    <SolidSwatchItem color="#333333" brightness="48"/>
+                    <SolidSwatchItem color="#336633" hue="80" saturation="80" brightness="72"/>
+                    <SolidSwatchItem color="#339933" hue="80" saturation="120" brightness="96"/>
+                    <SolidSwatchItem color="#33CC33" hue="80" saturation="144" brightness="120"/>
+                    <SolidSwatchItem color="#33FF33" hue="80" saturation="239" brightness="144"/>
+                    <SolidSwatchItem color="#660033" hue="220" saturation="239" brightness="48"/>
+                    <SolidSwatchItem color="#663333" saturation="80" brightness="72"/>
+                    <SolidSwatchItem color="#666633" hue="40" saturation="80" brightness="72"/>
+                    <SolidSwatchItem color="#669933" hue="60" saturation="120" brightness="96"/>
+                    <SolidSwatchItem color="#66CC33" hue="67" saturation="144" brightness="120"/>
+                    <SolidSwatchItem color="#66FF33" hue="70" saturation="239" brightness="144"/>
+                    <SolidSwatchItem/>
+                    <SolidSwatchItem color="#666666" brightness="96"/>
+                    <SolidSwatchItem/>
+                    <SolidSwatchItem color="#000066" hue="160" saturation="239" brightness="48"/>
+                    <SolidSwatchItem color="#003366" hue="140" saturation="239" brightness="48"/>
+                    <SolidSwatchItem color="#006666" hue="120" saturation="239" brightness="48"/>
+                    <SolidSwatchItem color="#009966" hue="107" saturation="239" brightness="72"/>
+                    <SolidSwatchItem color="#00CC66" hue="100" saturation="239" brightness="96"/>
+                    <SolidSwatchItem color="#00FF66" hue="96" saturation="239" brightness="120"/>
+                    <SolidSwatchItem color="#330066" hue="180" saturation="239" brightness="48"/>
+                    <SolidSwatchItem color="#333366" hue="160" saturation="80" brightness="72"/>
+                    <SolidSwatchItem color="#336666" hue="120" saturation="80" brightness="72"/>
+                    <SolidSwatchItem color="#339966" hue="100" saturation="120" brightness="96"/>
+                    <SolidSwatchItem color="#33CC66" hue="93" saturation="144" brightness="120"/>
+                    <SolidSwatchItem color="#33FF66" hue="90" saturation="239" brightness="144"/>
+                    <SolidSwatchItem color="#660066" hue="200" saturation="239" brightness="48"/>
+                    <SolidSwatchItem color="#663366" hue="200" saturation="80" brightness="72"/>
+                    <SolidSwatchItem color="#666666" brightness="96"/>
+                    <SolidSwatchItem color="#669966" hue="80" saturation="48" brightness="120"/>
+                    <SolidSwatchItem color="#66CC66" hue="80" saturation="120" brightness="144"/>
+                    <SolidSwatchItem color="#66FF66" hue="80" saturation="239" brightness="168"/>
+                    <SolidSwatchItem/>
+                    <SolidSwatchItem color="#999999" brightness="144"/>
+                    <SolidSwatchItem/>
+                    <SolidSwatchItem color="#000099" hue="160" saturation="239" brightness="72"/>
+                    <SolidSwatchItem color="#003399" hue="147" saturation="239" brightness="72"/>
+                    <SolidSwatchItem color="#006699" hue="133" saturation="239" brightness="72"/>
+                    <SolidSwatchItem color="#009999" hue="120" saturation="239" brightness="72"/>
+                    <SolidSwatchItem color="#00CC99" hue="110" saturation="239" brightness="96"/>
+                    <SolidSwatchItem color="#00FF99" hue="104" saturation="239" brightness="120"/>
+                    <SolidSwatchItem color="#330099" hue="173" saturation="239" brightness="72"/>
+                    <SolidSwatchItem color="#333399" hue="160" saturation="120" brightness="96"/>
+                    <SolidSwatchItem color="#336699" hue="140" saturation="120" brightness="96"/>
+                    <SolidSwatchItem color="#339999" hue="120" saturation="120" brightness="96"/>
+                    <SolidSwatchItem color="#33CC99" hue="107" saturation="144" brightness="120"/>
+                    <SolidSwatchItem color="#33FF99" hue="100" saturation="239" brightness="144"/>
+                    <SolidSwatchItem color="#660099" hue="187" saturation="239" brightness="72"/>
+                    <SolidSwatchItem color="#663399" hue="180" saturation="120" brightness="96"/>
+                    <SolidSwatchItem color="#666699" hue="160" saturation="48" brightness="120"/>
+                    <SolidSwatchItem color="#669999" hue="120" saturation="48" brightness="120"/>
+                    <SolidSwatchItem color="#66CC99" hue="100" saturation="120" brightness="144"/>
+                    <SolidSwatchItem color="#66FF99" hue="93" saturation="239" brightness="168"/>
+                    <SolidSwatchItem/>
+                    <SolidSwatchItem color="#CCCCCC" brightness="192"/>
+                    <SolidSwatchItem/>
+                    <SolidSwatchItem color="#0000CC" hue="160" saturation="239" brightness="96"/>
+                    <SolidSwatchItem color="#0033CC" hue="150" saturation="239" brightness="96"/>
+                    <SolidSwatchItem color="#0066CC" hue="140" saturation="239" brightness="96"/>
+                    <SolidSwatchItem color="#0099CC" hue="130" saturation="239" brightness="96"/>
+                    <SolidSwatchItem color="#00CCCC" hue="120" saturation="239" brightness="96"/>
+                    <SolidSwatchItem color="#00FFCC" hue="112" saturation="239" brightness="120"/>
+                    <SolidSwatchItem color="#3300CC" hue="170" saturation="239" brightness="96"/>
+                    <SolidSwatchItem color="#3333CC" hue="160" saturation="144" brightness="120"/>
+                    <SolidSwatchItem color="#3366CC" hue="147" saturation="144" brightness="120"/>
+                    <SolidSwatchItem color="#3399CC" hue="133" saturation="144" brightness="120"/>
+                    <SolidSwatchItem color="#33CCCC" hue="120" saturation="144" brightness="120"/>
+                    <SolidSwatchItem color="#33FFCC" hue="110" saturation="239" brightness="144"/>
+                    <SolidSwatchItem color="#6600CC" hue="180" saturation="239" brightness="96"/>
+                    <SolidSwatchItem color="#6633CC" hue="173" saturation="144" brightness="120"/>
+                    <SolidSwatchItem color="#6666CC" hue="160" saturation="120" brightness="144"/>
+                    <SolidSwatchItem color="#6699CC" hue="140" saturation="120" brightness="144"/>
+                    <SolidSwatchItem color="#66CCCC" hue="120" saturation="120" brightness="144"/>
+                    <SolidSwatchItem color="#66FFCC" hue="107" saturation="239" brightness="168"/>
+                    <SolidSwatchItem/>
+                    <SolidSwatchItem color="#FFFFFF" brightness="240"/>
+                    <SolidSwatchItem/>
+                    <SolidSwatchItem color="#0000FF" hue="160" saturation="239" brightness="120"/>
+                    <SolidSwatchItem color="#0033FF" hue="152" saturation="239" brightness="120"/>
+                    <SolidSwatchItem color="#0066FF" hue="144" saturation="239" brightness="120"/>
+                    <SolidSwatchItem color="#0099FF" hue="136" saturation="239" brightness="120"/>
+                    <SolidSwatchItem color="#00CCFF" hue="128" saturation="239" brightness="120"/>
+                    <SolidSwatchItem color="#00FFFF" hue="120" saturation="239" brightness="120"/>
+                    <SolidSwatchItem color="#3300FF" hue="168" saturation="239" brightness="120"/>
+                    <SolidSwatchItem color="#3333FF" hue="160" saturation="239" brightness="144"/>
+                    <SolidSwatchItem color="#3366FF" hue="150" saturation="239" brightness="144"/>
+                    <SolidSwatchItem color="#3399FF" hue="140" saturation="239" brightness="144"/>
+                    <SolidSwatchItem color="#33CCFF" hue="130" saturation="239" brightness="144"/>
+                    <SolidSwatchItem color="#33FFFF" hue="120" saturation="239" brightness="144"/>
+                    <SolidSwatchItem color="#6600FF" hue="176" saturation="239" brightness="120"/>
+                    <SolidSwatchItem color="#6633FF" hue="170" saturation="239" brightness="144"/>
+                    <SolidSwatchItem color="#6666FF" hue="160" saturation="239" brightness="168"/>
+                    <SolidSwatchItem color="#6699FF" hue="147" saturation="239" brightness="168"/>
+                    <SolidSwatchItem color="#66CCFF" hue="133" saturation="239" brightness="168"/>
+                    <SolidSwatchItem color="#66FFFF" hue="120" saturation="239" brightness="168"/>
+                    <SolidSwatchItem/>
+                    <SolidSwatchItem color="#FF0000" saturation="239" brightness="120"/>
+                    <SolidSwatchItem/>
+                    <SolidSwatchItem color="#990000" saturation="239" brightness="72"/>
+                    <SolidSwatchItem color="#993300" hue="13" saturation="239" brightness="72"/>
+                    <SolidSwatchItem color="#996600" hue="27" saturation="239" brightness="72"/>
+                    <SolidSwatchItem color="#999900" hue="40" saturation="239" brightness="72"/>
+                    <SolidSwatchItem color="#99CC00" hue="50" saturation="239" brightness="96"/>
+                    <SolidSwatchItem color="#99FF00" hue="56" saturation="239" brightness="120"/>
+                    <SolidSwatchItem color="#CC0000" saturation="239" brightness="96"/>
+                    <SolidSwatchItem color="#CC3300" hue="10" saturation="239" brightness="96"/>
+                    <SolidSwatchItem color="#CC6600" hue="20" saturation="239" brightness="96"/>
+                    <SolidSwatchItem color="#CC9900" hue="30" saturation="239" brightness="96"/>
+                    <SolidSwatchItem color="#CCCC00" hue="40" saturation="239" brightness="96"/>
+                    <SolidSwatchItem color="#CCFF00" hue="48" saturation="239" brightness="120"/>
+                    <SolidSwatchItem color="#FF0000" saturation="239" brightness="120"/>
+                    <SolidSwatchItem color="#FF3300" hue="8" saturation="239" brightness="120"/>
+                    <SolidSwatchItem color="#FF6600" hue="16" saturation="239" brightness="120"/>
+                    <SolidSwatchItem color="#FF9900" hue="24" saturation="239" brightness="120"/>
+                    <SolidSwatchItem color="#FFCC00" hue="32" saturation="239" brightness="120"/>
+                    <SolidSwatchItem color="#FFFF00" hue="40" saturation="239" brightness="120"/>
+                    <SolidSwatchItem/>
+                    <SolidSwatchItem color="#00FF00" hue="80" saturation="239" brightness="120"/>
+                    <SolidSwatchItem/>
+                    <SolidSwatchItem color="#990033" hue="227" saturation="239" brightness="72"/>
+                    <SolidSwatchItem color="#993333" saturation="120" brightness="96"/>
+                    <SolidSwatchItem color="#996633" hue="20" saturation="120" brightness="96"/>
+                    <SolidSwatchItem color="#999933" hue="40" saturation="120" brightness="96"/>
+                    <SolidSwatchItem color="#99CC33" hue="53" saturation="144" brightness="120"/>
+                    <SolidSwatchItem color="#99FF33" hue="60" saturation="239" brightness="144"/>
+                    <SolidSwatchItem color="#CC0033" hue="230" saturation="239" brightness="96"/>
+                    <SolidSwatchItem color="#CC3333" saturation="144" brightness="120"/>
+                    <SolidSwatchItem color="#CC6633" hue="13" saturation="144" brightness="120"/>
+                    <SolidSwatchItem color="#CC9933" hue="27" saturation="144" brightness="120"/>
+                    <SolidSwatchItem color="#CCCC33" hue="40" saturation="144" brightness="120"/>
+                    <SolidSwatchItem color="#CCFF33" hue="50" saturation="239" brightness="144"/>
+                    <SolidSwatchItem color="#FF0033" hue="232" saturation="239" brightness="120"/>
+                    <SolidSwatchItem color="#FF3333" saturation="239" brightness="144"/>
+                    <SolidSwatchItem color="#FF6633" hue="10" saturation="239" brightness="144"/>
+                    <SolidSwatchItem color="#FF9933" hue="20" saturation="239" brightness="144"/>
+                    <SolidSwatchItem color="#FFCC33" hue="30" saturation="239" brightness="144"/>
+                    <SolidSwatchItem color="#FFFF33" hue="40" saturation="239" brightness="144"/>
+                    <SolidSwatchItem/>
+                    <SolidSwatchItem color="#0000FF" hue="160" saturation="239" brightness="120"/>
+                    <SolidSwatchItem/>
+                    <SolidSwatchItem color="#990066" hue="213" saturation="239" brightness="72"/>
+                    <SolidSwatchItem color="#993366" hue="220" saturation="120" brightness="96"/>
+                    <SolidSwatchItem color="#996666" saturation="48" brightness="120"/>
+                    <SolidSwatchItem color="#999966" hue="40" saturation="48" brightness="120"/>
+                    <SolidSwatchItem color="#99CC66" hue="60" saturation="120" brightness="144"/>
+                    <SolidSwatchItem color="#99FF66" hue="67" saturation="239" brightness="168"/>
+                    <SolidSwatchItem color="#CC0066" hue="220" saturation="239" brightness="96"/>
+                    <SolidSwatchItem color="#CC3366" hue="227" saturation="144" brightness="120"/>
+                    <SolidSwatchItem color="#CC6666" saturation="120" brightness="144"/>
+                    <SolidSwatchItem color="#CC9966" hue="20" saturation="120" brightness="144"/>
+                    <SolidSwatchItem color="#CCCC66" hue="40" saturation="120" brightness="144"/>
+                    <SolidSwatchItem color="#CCFF66" hue="53" saturation="239" brightness="168"/>
+                    <SolidSwatchItem color="#FF0066" hue="224" saturation="239" brightness="120"/>
+                    <SolidSwatchItem color="#FF3366" hue="230" saturation="239" brightness="144"/>
+                    <SolidSwatchItem color="#FF6666" saturation="239" brightness="168"/>
+                    <SolidSwatchItem color="#FF9966" hue="13" saturation="239" brightness="168"/>
+                    <SolidSwatchItem color="#FFCC66" hue="27" saturation="239" brightness="168"/>
+                    <SolidSwatchItem color="#FFFF66" hue="40" saturation="239" brightness="168"/>
+                    <SolidSwatchItem/>
+                    <SolidSwatchItem color="#FFFF00" hue="40" saturation="239" brightness="120"/>
+                    <SolidSwatchItem/>
+                    <SolidSwatchItem color="#990099" hue="200" saturation="239" brightness="72"/>
+                    <SolidSwatchItem color="#993399" hue="200" saturation="120" brightness="96"/>
+                    <SolidSwatchItem color="#996699" hue="200" saturation="48" brightness="120"/>
+                    <SolidSwatchItem color="#999999" brightness="144"/>
+                    <SolidSwatchItem color="#99CC99" hue="80" saturation="80" brightness="168"/>
+                    <SolidSwatchItem color="#99FF99" hue="80" saturation="239" brightness="192"/>
+                    <SolidSwatchItem color="#CC0099" hue="210" saturation="239" brightness="96"/>
+                    <SolidSwatchItem color="#CC3399" hue="213" saturation="144" brightness="120"/>
+                    <SolidSwatchItem color="#CC6699" hue="220" saturation="120" brightness="144"/>
+                    <SolidSwatchItem color="#CC9999" saturation="80" brightness="168"/>
+                    <SolidSwatchItem color="#CCCC99" hue="40" saturation="80" brightness="168"/>
+                    <SolidSwatchItem color="#CCFF99" hue="60" saturation="239" brightness="192"/>
+                    <SolidSwatchItem color="#FF0099" hue="216" saturation="239" brightness="120"/>
+                    <SolidSwatchItem color="#FF3399" hue="220" saturation="239" brightness="144"/>
+                    <SolidSwatchItem color="#FF6699" hue="227" saturation="239" brightness="168"/>
+                    <SolidSwatchItem color="#FF9999" saturation="239" brightness="192"/>
+                    <SolidSwatchItem color="#FFCC99" hue="20" saturation="239" brightness="192"/>
+                    <SolidSwatchItem color="#FFFF99" hue="40" saturation="239" brightness="192"/>
+                    <SolidSwatchItem/>
+                    <SolidSwatchItem color="#00FFFF" hue="120" saturation="239" brightness="120"/>
+                    <SolidSwatchItem/>
+                    <SolidSwatchItem color="#9900CC" hue="190" saturation="239" brightness="96"/>
+                    <SolidSwatchItem color="#9933CC" hue="187" saturation="144" brightness="120"/>
+                    <SolidSwatchItem color="#9966CC" hue="180" saturation="120" brightness="144"/>
+                    <SolidSwatchItem color="#9999CC" hue="160" saturation="80" brightness="168"/>
+                    <SolidSwatchItem color="#99CCCC" hue="120" saturation="80" brightness="168"/>
+                    <SolidSwatchItem color="#99FFCC" hue="100" saturation="239" brightness="192"/>
+                    <SolidSwatchItem color="#CC00CC" hue="200" saturation="239" brightness="96"/>
+                    <SolidSwatchItem color="#CC33CC" hue="200" saturation="144" brightness="120"/>
+                    <SolidSwatchItem color="#CC66CC" hue="200" saturation="120" brightness="144"/>
+                    <SolidSwatchItem color="#CC99CC" hue="200" saturation="80" brightness="168"/>
+                    <SolidSwatchItem color="#CCCCCC" brightness="192"/>
+                    <SolidSwatchItem color="#CCFFCC" hue="80" saturation="239" brightness="216"/>
+                    <SolidSwatchItem color="#FF00CC" hue="208" saturation="239" brightness="120"/>
+                    <SolidSwatchItem color="#FF33CC" hue="210" saturation="239" brightness="144"/>
+                    <SolidSwatchItem color="#FF66CC" hue="213" saturation="239" brightness="168"/>
+                    <SolidSwatchItem color="#FF99CC" hue="220" saturation="239" brightness="192"/>
+                    <SolidSwatchItem color="#FFCCCC" saturation="239" brightness="216"/>
+                    <SolidSwatchItem color="#FFFFCC" hue="40" saturation="239" brightness="216"/>
+                    <SolidSwatchItem/>
+                    <SolidSwatchItem color="#FF00FF" hue="200" saturation="239" brightness="120"/>
+                    <SolidSwatchItem/>
+                    <SolidSwatchItem color="#9900FF" hue="184" saturation="239" brightness="120"/>
+                    <SolidSwatchItem color="#9933FF" hue="180" saturation="239" brightness="144"/>
+                    <SolidSwatchItem color="#9966FF" hue="173" saturation="239" brightness="168"/>
+                    <SolidSwatchItem color="#9999FF" hue="160" saturation="239" brightness="192"/>
+                    <SolidSwatchItem color="#99CCFF" hue="140" saturation="239" brightness="192"/>
+                    <SolidSwatchItem color="#99FFFF" hue="120" saturation="239" brightness="192"/>
+                    <SolidSwatchItem color="#CC00FF" hue="192" saturation="239" brightness="120"/>
+                    <SolidSwatchItem color="#CC33FF" hue="190" saturation="239" brightness="144"/>
+                    <SolidSwatchItem color="#CC66FF" hue="187" saturation="239" brightness="168"/>
+                    <SolidSwatchItem color="#CC99FF" hue="180" saturation="239" brightness="192"/>
+                    <SolidSwatchItem color="#CCCCFF" hue="160" saturation="239" brightness="216"/>
+                    <SolidSwatchItem color="#CCFFFF" hue="120" saturation="239" brightness="216"/>
+                    <SolidSwatchItem color="#FF00FF" hue="200" saturation="239" brightness="120"/>
+                    <SolidSwatchItem color="#FF33FF" hue="200" saturation="239" brightness="144"/>
+                    <SolidSwatchItem color="#FF66FF" hue="200" saturation="239" brightness="168"/>
+                    <SolidSwatchItem color="#FF99FF" hue="200" saturation="239" brightness="192"/>
+                    <SolidSwatchItem color="#FFCCFF" hue="200" saturation="239" brightness="216"/>
+                    <SolidSwatchItem color="#FFFFFF" brightness="240"/>
+                    <SolidSwatchItem color="#3D8E2B" hue="73" saturation="130" brightness="87"/>
+                    <SolidSwatchItem color="#FA2200" hue="6" saturation="239" brightness="118"/>
+                    <SolidSwatchItem color="#DE1018" hue="238" saturation="208" brightness="112"/>
+                    <SolidSwatchItem color="#00247D" hue="149" saturation="239" brightness="59"/>
+                    <SolidSwatchItem color="#C8102D" hue="234" saturation="205" brightness="102"/>
+                    <SolidSwatchItem color="#012268" hue="147" saturation="235" brightness="50"/>
+                    <SolidSwatchItem color="#D42C1D" hue="3" saturation="183" brightness="114"/>
+                    <SolidSwatchItem color="#0039A5" hue="146" saturation="239" brightness="78"/>
+                    <SolidSwatchItem color="#002395" hue="151" saturation="239" brightness="70"/>
+                    <SolidSwatchItem color="#ED2939" hue="237" saturation="203" brightness="131"/>
+                    <SolidSwatchItem color="#DC143C" hue="232" saturation="200" brightness="113"/>
+                    <SolidSwatchItem color="#FFCE00" hue="32" saturation="239" brightness="120"/>
+                    <SolidSwatchItem color="#DD0000" saturation="239" brightness="104"/>
+                    <SolidSwatchItem color="#DEB882" hue="24" saturation="140" brightness="166"/>
+                    <SolidSwatchItem color="#BA9A6D" hue="23" saturation="86" brightness="139"/>
+                    <SolidSwatchItem color="#D8B27E" hue="23" saturation="128" brightness="161"/>
+                    <SolidSwatchItem color="#FFD295" hue="23" saturation="239" brightness="190"/>
+                    <SolidSwatchItem color="#A68961" hue="23" saturation="67" brightness="124"/>
+                    <SolidSwatchItem color="#FED62F" hue="32" saturation="238" brightness="142"/>
+                    <SolidSwatchItem color="#CAAA17" hue="33" saturation="190" brightness="106"/>
+                    <SolidSwatchItem color="#FBDD54" hue="33" saturation="228" brightness="158"/>
+                    <SolidSwatchItem color="#615E55" hue="29" saturation="15" brightness="86"/>
+                    <SolidSwatchItem color="#6B5E68" hue="209" saturation="17" brightness="95"/>
+                    <SolidSwatchItem color="#CACEB6" hue="47" saturation="48" brightness="183"/>
+                    <SolidSwatchItem color="#D5CAB6" hue="26" saturation="64" brightness="186"/>
+                    <SolidSwatchItem color="#BCBFAF" hue="48" saturation="27" brightness="173"/>
+                    <SolidSwatchItem color="#A1A18F" hue="40" saturation="21" brightness="144"/>
+                    <SolidSwatchItem color="#EA174D" hue="230" saturation="200" brightness="121"/>
+                    <SolidSwatchItem color="#CF3342" hue="236" saturation="149" brightness="122"/>
+                    <SolidSwatchItem color="#8B0101" saturation="236" brightness="66"/>
+                    <SolidSwatchItem color="#E03528" hue="3" saturation="180" brightness="125"/>
+                    <SolidSwatchItem color="#FF5D10" hue="13" saturation="239" brightness="128"/>
+                    <SolidSwatchItem color="#9C2D35" hue="237" saturation="133" brightness="95"/>
+                    <SolidSwatchItem color="#FFD01F" hue="32" saturation="239" brightness="135"/>
+                    <SolidSwatchItem color="#1EA5B0" hue="123" saturation="171" brightness="97"/>
+                    <SolidSwatchItem color="#F4563C" hue="6" saturation="215" brightness="143"/>
+                    <SolidSwatchItem color="#A6D7B2" hue="91" saturation="90" brightness="179"/>
+                    <SolidSwatchItem color="#454C53" hue="139" saturation="22" brightness="72"/>
+                    <SolidSwatchItem color="#BC0D26" hue="234" saturation="210" brightness="95"/>
+               </swatches>
+          </swatchList>
+     </swatchLists>
+     <extendedSwatchLists>
+          <swatchList>
+               <swatchListInfo name="Default Swatches"/>
+
+               <swatches>
+                    <swatchListInfo name="Default Swatches"/>
+
+                    <LinearGradientSwatchItem>
+                         <GradientEntry color="#FFFFFF" ratio="0"/>
+                         <GradientEntry ratio="1"/>
+                    </LinearGradientSwatchItem>
+                    <RadialGradientSwatchItem>
+                         <GradientEntry color="#FFFFFF" ratio="0"/>
+                         <GradientEntry ratio="1"/>
+                    </RadialGradientSwatchItem>
+                    <RadialGradientSwatchItem>
+                         <GradientEntry color="#FF0000" ratio="0"/>
+                         <GradientEntry ratio="1"/>
+                    </RadialGradientSwatchItem>
+                    <RadialGradientSwatchItem>
+                         <GradientEntry color="#00FF00" ratio="0"/>
+                         <GradientEntry ratio="1"/>
+                    </RadialGradientSwatchItem>
+                    <RadialGradientSwatchItem>
+                         <GradientEntry color="#0000FF" ratio="0"/>
+                         <GradientEntry ratio="1"/>
+                    </RadialGradientSwatchItem>
+                    <LinearGradientSwatchItem>
+                         <GradientEntry color="#0066FD" ratio="0"/>
+                         <GradientEntry color="#FFFFFF" ratio="0.376470588235294"/>
+                         <GradientEntry color="#FFFFFF" ratio="0.47843137254902"/>
+                         <GradientEntry color="#996600" ratio="0.501960784313725"/>
+                         <GradientEntry color="#FFCC00" ratio="0.666666666666667"/>
+                         <GradientEntry color="#FFFFFF" ratio="1"/>
+                    </LinearGradientSwatchItem>
+                    <LinearGradientSwatchItem>
+                         <GradientEntry color="#FF0000" ratio="0"/>
+                         <GradientEntry color="#FFFF00" ratio="0.164705882352941"/>
+                         <GradientEntry color="#00FF00" ratio="0.364705882352941"/>
+                         <GradientEntry color="#00FFFF" ratio="0.498039215686275"/>
+                         <GradientEntry color="#0000FF" ratio="0.666666666666667"/>
+                         <GradientEntry color="#FF00FF" ratio="0.831372549019608"/>
+                         <GradientEntry color="#FF0000" ratio="1"/>
+                    </LinearGradientSwatchItem>
+                    <LinearGradientSwatchItem>
+                         <GradientEntry color="#CAAA17" ratio="0.0352941176470588"/>
+                         <GradientEntry color="#FBDD54" ratio="0.584313725490196"/>
+                    </LinearGradientSwatchItem>
+                    <LinearGradientSwatchItem>
+                         <GradientEntry color="#6B5E68" ratio="0.0862745098039216"/>
+                         <GradientEntry color="#BCBFAF" ratio="0.615686274509804"/>
+                    </LinearGradientSwatchItem>
+               </swatches>
+          </swatchList>
+     </extendedSwatchLists>
+     <persistentData>
+          <PD n="CreateJSToolkit_timelinedata" v="version&#xA;0.1&#xA;loop&#xA;true"/>
+     </persistentData>
+     <PrinterSettings/>
+     <publishHistory/>
+</DOMDocument>

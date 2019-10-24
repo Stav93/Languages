@@ -1,0 +1,92 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="flag_thai" itemID="5da32843-000002f1" lastModified="1570975291">
+  <timeline>
+    <DOMTimeline name="flag_thai">
+      <layers>
+        <DOMLayer name="Layer_1" color="#00FFFF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMGroup selected="true">
+                  <members>
+                    <DOMGroup selected="true">
+                      <members>
+                        <DOMShape selected="true">
+                          <fills>
+                            <FillStyle index="1">
+                              <SolidColor color="#FFFFFF"/>
+                            </FillStyle>
+                          </fills>
+                          <edges>
+                            <Edge fillStyle1="1" edges="!0 43S2|2043 43!2043 43|2043 1329!2043 1329|0 1329!0 1329|0 43"/>
+                            <Edge cubics="!2043 43(;2043,43 2043,1329 2043,1329q2043 43 2043 1329);"/>
+                            <Edge cubics="!0 1329(;0,1329 0,43 0,43q0 1329 0 43);"/>
+                            <Edge cubics="!2043 1329(;2043,1329 0,1329 0,1329q2043 1329 0 1329);"/>
+                            <Edge cubics="!0 43(;0,43 2043,43 2043,43q0 43 2043 43);"/>
+                          </edges>
+                        </DOMShape>
+                      </members>
+                    </DOMGroup>
+                    <DOMGroup selected="true">
+                      <members>
+                        <DOMShape selected="true">
+                          <fills>
+                            <FillStyle index="1">
+                              <SolidColor color="#DE1018"/>
+                            </FillStyle>
+                          </fills>
+                          <edges>
+                            <Edge fillStyle1="1" edges="!0 0S2|2043 0!2043 0|2043 226!2043 226|0 226!0 226|0 0"/>
+                            <Edge cubics="!2043 0(;2043,0 2043,226 2043,226q2043 0 2043 226);"/>
+                            <Edge cubics="!0 226(;0,226 0,0 0,0q0 226 0 0);"/>
+                            <Edge cubics="!0 0(;0,0 2043,0 2043,0q0 0 2043 0);"/>
+                            <Edge cubics="!2043 226(;2043,226 0,226 0,226q2043 226 0 226);"/>
+                          </edges>
+                        </DOMShape>
+                      </members>
+                    </DOMGroup>
+                    <DOMGroup selected="true">
+                      <members>
+                        <DOMShape selected="true">
+                          <fills>
+                            <FillStyle index="1">
+                              <SolidColor color="#00247D"/>
+                            </FillStyle>
+                          </fills>
+                          <edges>
+                            <Edge fillStyle1="1" edges="!0 455S2|2043 455!2043 455|2043 905!2043 905|0 905!0 905|0 455"/>
+                            <Edge cubics="!2043 455(;2043,455 2043,905 2043,905q2043 455 2043 905);"/>
+                            <Edge cubics="!0 905(;0,905 0,455 0,455q0 905 0 455);"/>
+                            <Edge cubics="!2043 905(;2043,905 0,905 0,905q2043 905 0 905);"/>
+                            <Edge cubics="!0 455(;0,455 2043,455 2043,455q0 455 2043 455);"/>
+                          </edges>
+                        </DOMShape>
+                      </members>
+                    </DOMGroup>
+                    <DOMGroup selected="true">
+                      <members>
+                        <DOMShape selected="true">
+                          <fills>
+                            <FillStyle index="1">
+                              <SolidColor color="#DE1018"/>
+                            </FillStyle>
+                          </fills>
+                          <edges>
+                            <Edge fillStyle1="1" edges="!0 1134S2|2043 1134!2043 1134|2043 1360!2043 1360|0 1360!0 1360|0 1134"/>
+                            <Edge cubics="!2043 1134(;2043,1134 2043,1360 2043,1360q2043 1134 2043 1360);"/>
+                            <Edge cubics="!0 1360(;0,1360 0,1134 0,1134q0 1360 0 1134);"/>
+                            <Edge cubics="!0 1134(;0,1134 2043,1134 2043,1134q0 1134 2043 1134);"/>
+                            <Edge cubics="!2043 1360(;2043,1360 0,1360 0,1360q2043 1360 0 1360);"/>
+                          </edges>
+                        </DOMShape>
+                      </members>
+                    </DOMGroup>
+                  </members>
+                </DOMGroup>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

@@ -1,0 +1,55 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="exit" itemID="5da73a3d-00000399" lastModified="1571240509">
+  <timeline>
+    <DOMTimeline name="exit">
+      <layers>
+        <DOMLayer name="Layer_1" color="#00FFFF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMGroup selected="true">
+                  <matrix>
+                    <Matrix tx="159.85" ty="-57.8"/>
+                  </matrix>
+                  <members>
+                    <DOMShape selected="true">
+                      <matrix>
+                        <Matrix tx="159.85" ty="-57.8"/>
+                      </matrix>
+                      <fills>
+                        <FillStyle index="1">
+                          <SolidColor color="#E5BFB0"/>
+                        </FillStyle>
+                      </fills>
+                      <strokes>
+                        <StrokeStyle index="1">
+                          <SolidStroke scaleMode="normal" weight="2">
+                            <fill>
+                              <SolidColor color="#59352D"/>
+                            </fill>
+                          </SolidStroke>
+                        </StrokeStyle>
+                        <StrokeStyle index="2">
+                          <SolidStroke scaleMode="normal" weight="3">
+                            <fill>
+                              <SolidColor color="#59352D"/>
+                            </fill>
+                          </SolidStroke>
+                        </StrokeStyle>
+                      </strokes>
+                      <edges>
+                        <Edge fillStyle1="1" strokeStyle="1" edges="!-2601 1454S6[-2601 1578 -2688 1665!-2688 1665[-2775 1752 -2899 1752!-2899 1752[-3022 1752 -3110 1665!-3110 1665[-3197 1578 -3197 1454!-3197 1454[-3197 1331 -3110 1244!-3110 1244[-3022 1156 -2899 1156!-2899 1156[-2775 1156 -2688 1244
+!-2688 1244[-2601 1331 -2601 1454"/>
+                        <Edge fillStyle0="1" fillStyle1="1" strokeStyle="2" edges="
+!-3055 1296S7|-2897 1454!-2897 1454|-2741 1610!-2741 1297|-2897 1454!-2897 1454|-3055 1611"/>
+                      </edges>
+                    </DOMShape>
+                  </members>
+                </DOMGroup>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

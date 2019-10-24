@@ -1,0 +1,74 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="flag_germmany" itemID="5da331c9-00000321" lastModified="1570976201">
+  <timeline>
+    <DOMTimeline name="flag_germmany">
+      <layers>
+        <DOMLayer name="Layer_1" color="#00FFFF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMGroup selected="true">
+                  <members>
+                    <DOMGroup selected="true">
+                      <members>
+                        <DOMShape selected="true">
+                          <fills>
+                            <FillStyle index="1">
+                              <SolidColor/>
+                            </FillStyle>
+                          </fills>
+                          <edges>
+                            <Edge fillStyle1="1" edges="!2737 0S2|2737 618!2737 618|0 618!0 618|0 0!0 0|2737 0"/>
+                            <Edge cubics="!2737 0(;2737,0 2737,618 2737,618q2737 0 2737 618);"/>
+                            <Edge cubics="!0 0(;0,0 0,618 0,618q0 0 0 618);"/>
+                            <Edge cubics="!0 0(;0,0 2737,0 2737,0q0 0 2737 0);"/>
+                            <Edge cubics="!2737 618(;2737,618 0,618 0,618q2737 618 0 618);"/>
+                          </edges>
+                        </DOMShape>
+                      </members>
+                    </DOMGroup>
+                    <DOMGroup selected="true">
+                      <members>
+                        <DOMShape selected="true">
+                          <fills>
+                            <FillStyle index="1">
+                              <SolidColor color="#DD0000"/>
+                            </FillStyle>
+                          </fills>
+                          <edges>
+                            <Edge fillStyle1="1" edges="!2737 546S2|2737 1219!2737 1219|0 1219!0 1219|0 546!0 546|2737 546"/>
+                            <Edge cubics="!2737 546(;2737,546 2737,1219 2737,1219q2737 546 2737 1219);"/>
+                            <Edge cubics="!0 546(;0,546 0,1219 0,1219q0 546 0 1219);"/>
+                            <Edge cubics="!0 546(;0,546 2737,546 2737,546q0 546 2737 546);"/>
+                            <Edge cubics="!2737 1219(;2737,1219 0,1219 0,1219q2737 1219 0 1219);"/>
+                          </edges>
+                        </DOMShape>
+                      </members>
+                    </DOMGroup>
+                    <DOMGroup selected="true">
+                      <members>
+                        <DOMShape selected="true">
+                          <fills>
+                            <FillStyle index="1">
+                              <SolidColor color="#FFCE00"/>
+                            </FillStyle>
+                          </fills>
+                          <edges>
+                            <Edge fillStyle1="1" edges="!2737 1096S2|2737 1647!2737 1647|0 1647!0 1647|0 1096!0 1096|2737 1096"/>
+                            <Edge cubics="!2737 1096(;2737,1096 2737,1647 2737,1647q2737 1096 2737 1647);"/>
+                            <Edge cubics="!0 1096(;0,1096 0,1647 0,1647q0 1096 0 1647);"/>
+                            <Edge cubics="!0 1096(;0,1096 2737,1096 2737,1096q0 1096 2737 1096);"/>
+                            <Edge cubics="!2737 1647(;2737,1647 0,1647 0,1647q2737 1647 0 1647);"/>
+                          </edges>
+                        </DOMShape>
+                      </members>
+                    </DOMGroup>
+                  </members>
+                </DOMGroup>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>
